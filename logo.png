@@ -1,0 +1,7 @@
+<header>
+    <img src="logo.png" alt="Логотип компании" style="width: 100px; height: auto;">
+    <div class="logo">
+        <h1>ТОО "Процесс цемент"</h1>
+        <p>Надежный поставщик цемента в Казахстане</p>
+    </div>
+</header>
